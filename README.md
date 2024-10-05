@@ -19,5 +19,11 @@ The primary goals are to:
 
 # **4. Dashboard**
 
+<img src="https://i.imgur.com/5dbwvN5.png">
+
+***
+
+<img src="https://i.imgur.com/kKibTG1.png">
 
 # **5. Recommendations**
+<img src="https://i.imgur.com/92DbCqF.png">
